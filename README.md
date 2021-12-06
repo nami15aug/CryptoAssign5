@@ -1,7 +1,11 @@
 # CryptoAssign5
-Elgamal ECC
+Elgamal ECC Implementation
+
+**Naveen Mishra
+CS21M516**
 
 **Execution LOG:**
+
 Elliptic Curve General Form      y^2 mod p = (x^3  + A*x + B) mod p
 Enter the value of P:
 512
